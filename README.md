@@ -3,6 +3,7 @@
 **개요**
 
 안드로이드 기반의 모바일 폐쇄형 Social Network Service (이하 SNS) 어플리케이션을 개발.
+                             (Social Media Application)
 
 
 
